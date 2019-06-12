@@ -1,0 +1,11 @@
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\bin\Debug\netcoreapp2.2\Ejercicios_Basicos.deps.json
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\bin\Debug\netcoreapp2.2\Ejercicios_Basicos.runtimeconfig.json
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\bin\Debug\netcoreapp2.2\Ejercicios_Basicos.runtimeconfig.dev.json
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\bin\Debug\netcoreapp2.2\Ejercicios_Basicos.dll
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\bin\Debug\netcoreapp2.2\Ejercicios_Basicos.pdb
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\obj\Debug\netcoreapp2.2\Ejercicios_Basicos.csprojAssemblyReference.cache
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\obj\Debug\netcoreapp2.2\Ejercicios_Basicos.csproj.CoreCompileInputs.cache
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\obj\Debug\netcoreapp2.2\Ejercicios_Basicos.AssemblyInfoInputs.cache
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\obj\Debug\netcoreapp2.2\Ejercicios_Basicos.AssemblyInfo.cs
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\obj\Debug\netcoreapp2.2\Ejercicios_Basicos.dll
+C:\Users\Luks\VsCode_Projects\Ejercicios_Basicos\obj\Debug\netcoreapp2.2\Ejercicios_Basicos.pdb
